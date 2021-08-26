@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Python enthusiast and I like do 🔭 **experiments** **in** scope of **code generation**. 
+I'm Python enthusiast and I like do 🔭 **experiments** **in** **code generation** & **metaprogramming**. 
 
 🌱 If you interesting to participate in any project: **feel free** to open PR or 💬 issue, I very glad to anyone.
 

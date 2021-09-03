@@ -2,7 +2,7 @@
 
 I'm Python enthusiast and I like do 🔭 **experiments** **in** **code generation** & **metaprogramming**. 
 
-🌱 If you interesting to participate in any project: **feel free** to open PR or 💬 issue, I very glad to anyone.
+🌱 If you interesting to participate in any project: **feel free** to open PR or 💬 issue, I'm very glad to any participation.
 
 Right now, :farmer: I'm focusing on supporting & adding new features to:
 

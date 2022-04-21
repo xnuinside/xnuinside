@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Currently is looking for remote job position - https://www.linkedin.com/posts/xnuinside_xnuinside-overview-activity-6922849376411267072-mWR8
+Currently, I'm looking for remote job position - https://www.linkedin.com/posts/xnuinside_xnuinside-overview-activity-6922849376411267072-mWR8
 
 I'm Python enthusiast and I like do 🔭 **experiments** **in** **code generation** & **metaprogramming**. 
 

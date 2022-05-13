@@ -16,6 +16,8 @@ Right now, :farmer: I'm focusing on supporting & adding new features to:
 
 * [fakeme](https://github.com/xnuinside/fakeme) - Fake Data generator for relative data (for example, for SQL tables)
 
+
+Always open for part-time & project work - if you need any help contact me via mail xnuinside@gmail.com or t.me/xnuinside
 <!--
 **xnuinside/xnuinside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

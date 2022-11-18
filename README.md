@@ -16,6 +16,7 @@ Right now, :farmer: I'm focusing on supporting & adding new features to:
 
 * [fakeme](https://github.com/xnuinside/fakeme) - Fake Data generator for relative data (for example, for SQL tables)
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=xnuinside)](https://holopin.io/@xnuinside)
 
 Always open for part-time & project work - if you need any help contact me via mail xnuinside@gmail.com or t.me/xnuinside
 <!--

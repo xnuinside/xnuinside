@@ -14,7 +14,7 @@ Right now, :farmer: I'm focusing on supporting & adding new features to:
 
 * [py-models-parser](https://github.com/xnuinside/py-models-parser) - Parser that supported already 12 types of different Python models (ORM, Pydantic and etc)
 
-![Xnuinside's github stats](https://github-readme-stats.vercel.app/api?username=xnuinside&theme=blue-green)
+![Xnuinside's github stats](https://github-readme-stats.vercel.app/api?username=xnuinside&theme=white-blue)
 
 If you need any help or want to collobarate anyhow: contact me via mail xnuinside@gmail.com or t.me/xnuinside
 

@@ -14,5 +14,7 @@ Right now, :farmer: I'm focusing on supporting & adding new features to:
 
 * [py-models-parser](https://github.com/xnuinside/py-models-parser) - Parser that supported already 12 types of different Python models (ORM, Pydantic and etc)
 
+* [py-module-parser](https://github.com/xnuinside/py-module-parser) - Python Module Parser is a library that parses Python modules and outputs information about imports, functions, variables, and their corresponding line numbers.
+
 If you need any help or want to collobarate anyhow: contact me via mail xnuinside@gmail.com or t.me/xnuinside
 

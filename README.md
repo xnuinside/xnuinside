@@ -6,6 +6,8 @@ I'm Python enthusiast and I like do 🔭 **experiments** **in** **code generatio
 
 Right now, :farmer: I'm focusing on supporting & adding new features to:
 
+* [airflow-helper](https://github.com/xnuinside/airflow-helper) - Pretty Fresh command line tool to set up Apache Airflow connections, variables & pools from yaml config. Support config inheritance & feature to get settings from existed server. 
+
 * [simple-ddl-parser](https://github.com/xnuinside/simple-ddl-parser) - Parser that focudes on differen DDL dialects and only DDL
 
 * [simple-ddl-generator](https://github.com/xnuinside/simple-ddl-generator) - Generate DDL SQL from various Python Models & can be used to modify existed SQL DDLs (with simple-ddl-parser)

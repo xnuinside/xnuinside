@@ -2,7 +2,7 @@
 I'm **Iuliia Volkova (xnuinside)**
 
 🌱 Python engineer and **Head of Data & Analytics**.  
-I build **static analysis tools, parsers, and developer tooling**
+I build static analysis tools, parsers, and developer tooling
 for codebases, schemas, and data platforms.
 
 **Focus areas in open source:**
